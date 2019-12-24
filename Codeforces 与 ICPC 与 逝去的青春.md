@@ -76,7 +76,11 @@ Codeforces相比很多其他的算法网站有很多优点：1）你可以看到
 
 ![](https://github.com/RingoLynx/Codeforces/blob/master/2.png)
 
+
+
 <center>tourist个人主页</center>
+
+
 当然，Tourist的传奇不仅仅如此，IOI世界冠军，2013、2015ICPC世界总决赛冠军得主（2015年ICPC世界总决赛历史首次AK（做出所有题目），超第二名两题），2014-2016 Google Code Jam 冠军得主，2014、2015 Facebook Hacker Cup冠军得主，2014、2016 Russian Code Cup冠军得主。很多人都认为他是史上最强的算法竞赛选手，参加各种公司的算法竞赛拿个冠军都如同探囊取物。
 
 反正打比赛前，要是想玄学一波，就可以对着他的皂片祈祷啦。
@@ -88,6 +92,8 @@ Codeforces相比很多其他的算法网站有很多优点：1）你可以看到
 **注**：彩虹图只是我的个人叫法。
 
 ![](https://github.com/RingoLynx/Codeforces/blob/master/3.png)
+
+
 
 <center>我的彩虹图</center>
 在你刚开始打codeforces的第一场比赛的时候，会默认你是1500分的中等水平选手，而刚开始进集训队连搜索都不会的我，打了一场就掉到1419。当时不信邪，连打了好多场，晚上一点多两点多开始的，我也刷夜参加。打一次，rating就跌一次。但是我热血沸腾，越挫越勇。
@@ -109,6 +115,8 @@ Codeforces相比很多其他的算法网站有很多优点：1）你可以看到
 ![](https://github.com/RingoLynx/Codeforces/blob/master/4.png)
 
 <center>tourist的彩虹图</center>
+
+
 #### 算法竞赛：爱好 or 踏板？
 
 后来，我听一位学长说，大四再打ACM，性价比真的不高。
