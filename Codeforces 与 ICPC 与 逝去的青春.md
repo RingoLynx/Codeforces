@@ -69,17 +69,13 @@ Codeforces相比很多其他的算法网站有很多优点：1）你可以看到
 
 如果你打过codeforces，你一定会认识tourist。这个神一般的男人，以着3600+的高分，常年盘踞在cf的rating榜首。在我大一的时候刚接触这个网站，他就已经在榜首好久了。过程中据说有被Petr大神超越过，后来Petr自己又打了一场掉回去了orz。Petr大神还是很强哒，毕竟这比赛也考验智力和反应力，30岁左右不及年轻时候的巅峰状态也是很正常。
 
+目前的前十榜单：
+
 ![](https://github.com/RingoLynx/Codeforces/blob/master/1.png)
 
-<center>目前的前十榜单</center>
-
+tourist个人主页：
 
 ![](https://github.com/RingoLynx/Codeforces/blob/master/2.png)
-
-
-
-<center>tourist个人主页</center>
-
 
 当然，Tourist的传奇不仅仅如此，IOI世界冠军，2013、2015ICPC世界总决赛冠军得主（2015年ICPC世界总决赛历史首次AK（做出所有题目），超第二名两题），2014-2016 Google Code Jam 冠军得主，2014、2015 Facebook Hacker Cup冠军得主，2014、2016 Russian Code Cup冠军得主。很多人都认为他是史上最强的算法竞赛选手，参加各种公司的算法竞赛拿个冠军都如同探囊取物。
 
@@ -91,12 +87,13 @@ Codeforces相比很多其他的算法网站有很多优点：1）你可以看到
 
 **注**：彩虹图只是我的个人叫法。
 
+tourist的彩虹图：
+
+![](https://github.com/RingoLynx/Codeforces/blob/master/4.png)
+
+我的彩虹图：
+
 ![](https://github.com/RingoLynx/Codeforces/blob/master/3.png)
-
-
-
-<center>我的彩虹图</center>
-
 
 在你刚开始打codeforces的第一场比赛的时候，会默认你是1500分的中等水平选手，而刚开始进集训队连搜索都不会的我，打了一场就掉到1419。当时不信邪，连打了好多场，晚上一点多两点多开始的，我也刷夜参加。打一次，rating就跌一次。但是我热血沸腾，越挫越勇。
 
@@ -114,9 +111,8 @@ Codeforces相比很多其他的算法网站有很多优点：1）你可以看到
 
 想不到，最后，我也失去了最开始时候身为一只菜鸡的铮铮勇气。
 
-![](https://github.com/RingoLynx/Codeforces/blob/master/4.png)
 
-<center>tourist的彩虹图</center>
+
 
 
 #### 算法竞赛：爱好 or 踏板？
